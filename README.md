@@ -1,2 +1,2 @@
 # R
-Data Science in R
+R Practice!
