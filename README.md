@@ -1,2 +1,2 @@
-# r
-r practice
+# R
+Select R projects
